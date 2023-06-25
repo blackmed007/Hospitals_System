@@ -5,15 +5,16 @@ Simple Hospitals_System Program using Python
 
 The program provides the following operations:
 
-1) Add new patient
+1) Add a new patient
 2) Print all patients
-3) Get next patient
-4) Remove a leaving atient
+3) Get the next patient
+4) Remove a leaving patient
 5) End the program
 
 Note:
--There are 20 different specialization (e.g. Children, Surgery, etc)
--For each specialization, there are only 10 available spots, which will be sorted according Status is 0 (normal), 1 (urgent) and 2 (super urgent)
+-There are 20 different specializations (e.g. Children, Surgery, etc)
+
+-For each specialization, there are only 10 available spots, which will be sorted according to Status : 0 (normal), 1 (urgent), and 2 (super urgent)
 
 -The program will keep running  Until the user chooses to exit.
 
