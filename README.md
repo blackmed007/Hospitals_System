@@ -12,6 +12,7 @@ The program provides the following operations:
 5) End the program
 
 Note:
+
 -There are 20 different specializations (e.g. Children, Surgery, etc)
 
 -For each specialization, there are only 10 available spots, which will be sorted according to Status : 0 (normal), 1 (urgent), and 2 (super urgent)
