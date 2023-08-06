@@ -3,7 +3,7 @@
 Simple Hospitals_System Program using Python 
 
 
-I'm currently updating the project : it will be ready around 13 Aug
+I'm currently updating the project: it will be ready around 13 August 
 
 The program provides the following operations:
 
