@@ -3,6 +3,8 @@
 Simple Hospitals_System Program using Python 
 
 
+I'm currently updating the project : it will be ready around 13 Aug
+
 The program provides the following operations:
 
 1) Add a new patient
